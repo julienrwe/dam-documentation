@@ -28,19 +28,19 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     sidebar: [
       { text: 'General', collapsible: true, children: [
         { text: 'Discover the DAM', collapsible: true,  children: [ 
-          { text: 'Introduction to Blockchain', link: '/overview/#introduction'} 
+          { text: 'Introduction to Blockchain', link: '/general'} 
         ] },
-        { text: 'Pratical Usecases', collapsible: true, link: '/overview/#meet-the-dam-platform', children: [
+        { text: 'Pratical Usecases', collapsible: true, link: /general', children: [
           { text: 'Tokenization' }
         ] },
-        { text: 'Usecases', link: '/overview/#features-and-benefits ' }
+        { text: 'Usecases', link: '/general ' }
       ]},
       { text: 'Playbook', collapsible: true, children: [
-        { text: 'Asset Management', link: '/overview/#features-and-benefits ' },
-        { text: 'Loyalty Programs', link: '/overview/#features-and-benefits ' },
-        { text: 'Organisation', link: '/overview/#features-and-benefits ' },
-        { text: 'Wallet', link: '/overview/#features-and-benefits ' },
-        { text: 'Transactions', link: '/overview/#features-and-benefits ' }
+        { text: 'Asset Management', link: '/playbook' },
+        { text: 'Loyalty Programs', link: '/playbook' },
+        { text: 'Organisation', link: '/playbook' },
+        { text: 'Wallet', link: '/playbook' },
+        { text: 'Transactions', link: '/playbook' }
         ]},
       { text: 'Getting Started', collapsible: true, children: [
         { text: 'Authentication', link: '/backofficetest/#login' },
