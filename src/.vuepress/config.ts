@@ -28,7 +28,7 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     sidebar: [
       { text: 'General', collapsible: true, children: [
         { text: 'Discover the DAM', link: '/general/#title,  children: [ 
-          { text: 'Introduction to Blockchain', link: '/general'} 
+          { text: 'Introduction to Blockchain', link: '/introduction-blockchain'} 
         ] },
         { text: 'Pratical Usecases', collapsible: true, link: '/general', children: [
           { text: 'Tokenization' }
