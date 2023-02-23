@@ -27,49 +27,33 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     ],
     sidebar: [
       { text: 'General', collapsible: true, children: [
-        { text: 'Discover the DAM', link: '/overview/#introduction', children: [ 
+        { text: 'Discover the DAM', collapsible: true, link: '/overview/#introduction', children: [ 
           { text: 'Introduction to Blockchain' } 
         ] },
-        { text: 'Pratical Usecases', link: '/overview/#meet-the-dam-platform', children: [
+        { text: 'Pratical Usecases', collapsible: true, link: '/overview/#meet-the-dam-platform', children: [
           { text: 'Tokenization' }
         ] },
         { text: 'Usecases', link: '/overview/#features-and-benefits ' }
-      ]},      { text: '📱 Mobile application', link: '/mobile-app' },
-      { text: '💻 Back Office', collapsible: false, children: [
-        { text: 'Login', link: '/backofficetest/#login' },
-        { text: 'My Profile', link: '/backofficetest/#my-profile' },
-        { text: 'Acceptance Network Enrolment', link: '/backofficetest/#acceptance-network-enrolment' },
-        { text: 'Dashboard', link: '/backofficetest/#dashboard' },
-        { text: 'Assets Management', link: '/backofficetest/#assets-management' },
-        { text: 'Assets rates', link: '/backofficetest/#assets-rates-management' },
-        { text: 'Loyalty Programs', link: '/backofficetest/#loyalty-programs' },
-        { text: 'Organisation Management', link: '/backofficetest/#organisation-management' },
-        { text: 'Establishments', link: '/backofficetest/#establishments' },
-        { text: 'Wallet Management', link: '/backofficetest/#wallet-management' },
-        { text: 'KYC Management', link: '/backofficetest/#kyc-management' },
-        { text: 'Transactions Management', link: '/backofficetest/#transactions-management' },
-        { text: 'Cash-in', link: '/backofficetest/#cash-in' },
-        { text: 'Bills', link: '/backofficetest/#bills' },
-        { text: 'Blockchain Transactions', link: '/backofficetest/#blockchain-transactions' },
-        { text: 'Rules on Transactions', link: '/backofficetest/#rules-on-transactions' },
-        { text: 'User And EndUser Management', link: '/backofficetest/#user-and-enduser-management' },
-        { text: 'Users', link: '/backofficetest/#users' },
-        { text: 'EndUsers', link: '/backofficetest/#endusers' },
-        { text: 'Permissions And Rights', link: '/backofficetest/#permissions-and-rights' },
-        { text: 'Cash-out', link: '/backofficetest/#cash-out' },
-        { text: 'Audit Trail', link: '/backofficetest/#audit-trail' },
-        { text: 'Instance Administration', link: '/backofficetest/#instance-administration' }
       ]},
-      { text: '✔️ General rules', collapsible: false, children: [
-        { text: 'Password Policy', link: '/general-rules/#password-policy' },
-        { text: 'Phone number', link: '/general-rules/#phone-number-management-rules' },
-        { text: 'Pagination', link: '/general-rules/#pagination' },
-        { text: 'Available currencies', link: '/general-rules/#available-currencies' },
-        { text: 'Multi-tab browser', link: '/general-rules/#multi-tab-browser' },
-        { text: 'Communication language', link: '/general-rules/#communication-language' },
-        { text: 'Blocked countries', link: '/general-rules/#blocked-countries' }
+      { text: 'Playbook', collapsible: true, link: '/mobile-app', children: [
+        { text: 'Asset Management', link: '/overview/#features-and-benefits ' },
+        { text: 'Loyalty Programs', link: '/overview/#features-and-benefits ' },
+        { text: 'Organisation', link: '/overview/#features-and-benefits ' },
+        { text: 'Wallet', link: '/overview/#features-and-benefits ' },
+        { text: 'Transactions', link: '/overview/#features-and-benefits ' }
+        ]},
+      { text: 'Getting Started', collapsible: true, children: [
+        { text: 'Authentication', link: '/backofficetest/#login' },
+        { text: 'API Endpoints', link: '/backofficetest/#my-profile' },
+        { text: 'Examples', link: '/backofficetest/#acceptance-network-enrolment' },
+        { text: 'API Limitation', link: '/backofficetest/#dashboard' }
       ]},
-      { text: '📜 Annexes', link: '/annexes' }
+      { text: 'Support', collapsible: true, children: [
+        { text: 'Best Pratices', link: '/general-rules/#password-policy' },
+        { text: 'Errors', link: '/general-rules/#phone-number-management-rules' },
+        { text: 'FAQ', link: '/general-rules/#pagination' },
+        { text: 'Versioning', link: '/general-rules/#available-currencies' }
+      ]},
     ],
     editLink: false,
     lastUpdated: false,
