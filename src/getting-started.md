@@ -1,11 +1,9 @@
 # Getting Started
 
-## Asset Management
+## Authentication
 
-## Loyalty
+## API Endpoints
 
-## Organisations
+## Examples
 
-## Wallets
-
-## Transactions
+## API Limitation
