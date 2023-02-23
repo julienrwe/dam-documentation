@@ -1,7 +1,7 @@
 # General
 
-## Title
+## Discover the DAM
 
-### Title 2
+## Practical usecases
 
-#### Title 3
+## Usecases
