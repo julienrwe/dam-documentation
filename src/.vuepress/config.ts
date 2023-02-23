@@ -36,23 +36,23 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
         { text: 'Usecases', link: '/general/#usecases' }
       ]},
       { text: 'Playbook', collapsible: true, children: [
-        { text: 'Asset Management', link: '/playbook' },
-        { text: 'Loyalty Programs', link: '/playbook' },
-        { text: 'Organisation', link: '/playbook' },
-        { text: 'Wallet', link: '/playbook' },
-        { text: 'Transactions', link: '/playbook' }
+        { text: 'Asset Management', link: '/playbook/#asset-management' },
+        { text: 'Loyalty Programs', link: '/playbook/#loyatly' },
+        { text: 'Organisation', link: '/playbook/#organisation' },
+        { text: 'Wallet', link: '/playbook/#wallet' },
+        { text: 'Transactions', link: '/playbook/#transactions' }
         ]},
       { text: 'Getting Started', collapsible: true, children: [
-        { text: 'Authentication', link: '/backofficetest/#login' },
-        { text: 'API Endpoints', link: '/backofficetest/#my-profile' },
-        { text: 'Examples', link: '/backofficetest/#acceptance-network-enrolment' },
-        { text: 'API Limitation', link: '/backofficetest/#dashboard' }
+        { text: 'Authentication', link: '/getting-started/#authentication' },
+        { text: 'API Endpoints', link: '/api' },
+        { text: 'Examples', link: '/getting-started/#examples' },
+        { text: 'API Limitation', link: '/getting-started/#api-limitation' }
       ]},
       { text: 'Support', collapsible: true, children: [
-        { text: 'Best Pratices', link: '/general-rules/#password-policy' },
-        { text: 'Errors', link: '/general-rules/#phone-number-management-rules' },
-        { text: 'FAQ', link: '/general-rules/#pagination' },
-        { text: 'Versioning', link: '/general-rules/#available-currencies' }
+        { text: 'Best Pratices', link: '/support/#best-practices' },
+        { text: 'Errors', link: '/support/#errors' },
+        { text: 'FAQ', link: '/support/#faq' },
+        { text: 'Versioning', link: '/support/#versioning' }
       ]},
     ],
     editLink: false,
