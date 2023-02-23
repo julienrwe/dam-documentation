@@ -27,13 +27,13 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     ],
     sidebar: [
       { text: 'General', collapsible: true, children: [
-        { text: 'Discover the DAM', link: '/general/#title',  children: [ 
+        { text: 'Discover the DAM', link: '/general/#discover-the-dam',  children: [ 
           { text: 'Introduction to Blockchain', link: '/introduction-blockchain'} 
         ] },
-        { text: 'Pratical Usecases', collapsible: true, link: '/general', children: [
+        { text: 'Pratical Usecases', collapsible: false, link: '/general/#pratical-usecases', children: [
           { text: 'Tokenization' }
         ] },
-        { text: 'Usecases', link: '/general' }
+        { text: 'Usecases', link: '/general/#usecases' }
       ]},
       { text: 'Playbook', collapsible: true, children: [
         { text: 'Asset Management', link: '/playbook' },
