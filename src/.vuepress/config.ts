@@ -26,11 +26,14 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
       { text: 'API doc', link: '/api' }
     ],
     sidebar: [
-      { text: '🔤 Lexicon', link: '/lexicon' },
-      { text: '📢 Overview', collapsible: true, children: [
-        { text: 'Introduction', link: '/overview/#introduction' },
-        { text: 'Meet the DAM Platform', link: '/overview/#meet-the-dam-platform' },
-        { text: 'Features and Benefits ', link: '/overview/#features-and-benefits ' }
+      { text: 'General', collapsible: true, children: [
+        { text: 'Discover the DAM', link: '/overview/#introduction', children: [ 
+          { text: 'Introduction to Blockchain' } 
+        ] },
+        { text: 'Pratical Usecases', link: '/overview/#meet-the-dam-platform', children: [
+          { text: 'Tokenization' }
+        ] },
+        { text: 'Usecases', link: '/overview/#features-and-benefits ' }
       ]},      { text: '📱 Mobile application', link: '/mobile-app' },
       { text: '💻 Back Office', collapsible: false, children: [
         { text: 'Login', link: '/backofficetest/#login' },
