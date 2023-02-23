@@ -31,7 +31,7 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
           { text: 'Introduction to Blockchain', link: '/introduction-blockchain'} 
         ] },
         { text: 'Pratical Usecases', collapsible: false, link: '/general/#practical-usecases', children: [
-          { text: 'Tokenization' }
+          { text: 'Tokenization', link: '/tokenization' }
         ] },
         { text: 'Usecases', link: '/general/#usecases' }
       ]},
