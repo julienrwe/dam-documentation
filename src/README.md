@@ -6,7 +6,7 @@ heroAlt: Logo of the DAM Platform
 heroText: Digital Asset Management documentation
 actions:
   - text: Get started
-    link: /overview
+    link: /general
     type: primary
   - text: REST API
     link: /api
