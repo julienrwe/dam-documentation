@@ -27,7 +27,7 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     ],
     sidebar: [
       { text: '🔤 Lexicon', link: '/lexicon' },
-      { text: '📢 Overview', collapsible: false, children: [
+      { text: '📢 Overview', collapsible: true, children: [
         { text: 'Introduction', link: '/overview/#introduction' },
         { text: 'Meet the DAM Platform', link: '/overview/#meet-the-dam-platform' },
         { text: 'Features and Benefits ', link: '/overview/#features-and-benefits ' }
