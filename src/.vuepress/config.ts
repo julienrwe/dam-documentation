@@ -35,7 +35,7 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
         ] },
         { text: 'Usecases', link: '/overview/#features-and-benefits ' }
       ]},
-      { text: 'Playbook', collapsible: true, link: '/mobile-app', children: [
+      { text: 'Playbook', collapsible: true, children: [
         { text: 'Asset Management', link: '/overview/#features-and-benefits ' },
         { text: 'Loyalty Programs', link: '/overview/#features-and-benefits ' },
         { text: 'Organisation', link: '/overview/#features-and-benefits ' },
