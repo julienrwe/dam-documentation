@@ -27,6 +27,39 @@ To do so we are focus on creating an **innovative**, **modular** and **future
 
 [Introduction to Blockchain](https://github.com/julienrwe/dam-documentation/blob/6a651e4f3feed5462dbc72bbb82a908cad2732f5/src/introduction-blockchain.md).
 
+### **Let's join forces to reinvent digital payments with blockchain! Together, we can create a more efficient and secure system for everyone**
+
+<u>Today’s challenges</u>
+
+**No digital native payment**
+
+Complex and costly solution not fiiting in a digital world
+
+**Hard to maintain genuine trust with multiple partners**
+
+Need of centralized third-party authority
+
+**Complexe to create and maintain a business ecosystem**
+
+Expensive and time consuming to coordonate with partners and their solutions
+
+<u>Adopting digital assets</u>
+
+**Integrate A Trustable Blockchain Network**
+
+* Instantaneous Settlement
+* Accurate Tracking
+* <u>Verifiable</u> and <u>Trustable</u> for you and your business partners on a private blockchain
+
+**Make Real World Assets Digital Native**
+
+Currency, Loyalty, Vouchers, Ticketing, Commodities...
+
+Powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
+
+**Create New Services never possible before**
+
+Own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
 
 
 
