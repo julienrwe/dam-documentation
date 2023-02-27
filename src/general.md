@@ -113,7 +113,11 @@ The DAM provides a complete and integrated solution for digitizing various asset
 
 [Introduction tokenization](https://github.com/julienrwe/dam-documentation/blob/5c156e6b374456ec2f7e8c0c2a46b54355dbb941/src/tokenization.md)
 
+![https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png](https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png)
 
+We call **fungible assets** what can be swapped with other individual items or assets of the same kind. Using this type of asset on the DAM  platform can turn physical assets such as cash or gold into digital currency. It can also be used to issue loyalty points, digital gift cards, or make stock options more liquid using blockchain tokenization.
+
+**Non-Fungible Assets (NFAs)** are unique and special assets that cannot be exchanged for other assets of the same type. The use of this type of asset on a the DAM platform enables physical assets such as fine art or real estate to be digitized and represented on the blockchain as digital assets known as Non-Fungible Tokens (NFTs). It can also be used to issue digital tickets or represent any digital titles of ownership.
 
 
 ## Usecases
