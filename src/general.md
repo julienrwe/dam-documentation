@@ -87,7 +87,7 @@ We provide our clients with the ability to create and manage digital assets, as 
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0e66d54-1e7e-4321-b478-567fbd0b5ecf/Untitled.png)
 
-**We provide complete integration and services to enable digital currency/assets of your choice.**
+### **We provide complete integration and services to enable digital currency/assets of your choice.**
 
 * Establish a frictionless customer experience
 * Streamline business processes to make them more efficient and cost-effective
@@ -119,5 +119,34 @@ We call **fungible assets** what can be swapped with other individual items or a
 
 **Non-Fungible Assets (NFAs)** are unique and special assets that cannot be exchanged for other assets of the same type. The use of this type of asset on a the DAM platform enables physical assets such as fine art or real estate to be digitized and represented on the blockchain as digital assets known as Non-Fungible Tokens (NFTs). It can also be used to issue digital tickets or represent any digital titles of ownership.
 
+### **We streamline your operations to meet your business needs** 
+
+**Configure assets according to your need**
+
+Our product is designed to provide lots of helpful business rules that can help streamline your operations, giving you more time and money-saving opportunities! Plus, it can ensure efficient and effective processes. It can integrate rules over transactions, whitelist and blacklist merchants, and even automate loyalty schemes and cashback systems - making it an incredibly versatile tool that can provide more than just payment and power services for any ecosystem.
+
+**Shape the plateform for your business** 
+
+DAM is integrated with many WL products and can also be connected to external providers for KYC, Payment Gateway and additional services, allowing you to link your daily processes to this private blockchain platform.
+
+**Simple tools for reporting and monitoring**
+
+We offer a comprehensive web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application also include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bf44b23-1471-4a41-a057-3cf6803b26e7/Untitled.png)
+
+### **Empower frictionless customer experience**
+    
+With DAM you make blockchain simple and accessible for everyone. And with have the rights tools for developers, merchant and end user to accelerate adoption and reduce time to market.
+    
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f771ee8-5235-44a7-b5ac-6aca26c4b385/Untitled.png)
+    
+#### **API**
+    
+**Easily** integrate the product into existing applications using our **convenient** APIs and user-friendly documentation tools. No **difficulties**, no **trouble**.
+
+#### **Whitelabel Mobile**
+    
+DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
 
 ## Usecases
