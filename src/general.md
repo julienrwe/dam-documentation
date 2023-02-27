@@ -25,6 +25,9 @@ To do so we are focus on creating an **innovative**, **modular** and **future
 
 **We are confidently developing a digital payment platform based on blockchain to empower you to create your own payment system.**
 
+[Introduction to Blockchain](https://github.com/julienrwe/dam-documentation/blob/6a651e4f3feed5462dbc72bbb82a908cad2732f5/src/introduction-blockchain.md).
+
+
 
 
 
