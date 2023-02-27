@@ -65,6 +65,8 @@ Own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>
 
 **#FF0000 A new way of creating your own digital payment experience with concrete benefits for all the actors **
 
+- ![A new way of creating your own digital payment experience with concrete benefits for all the actors](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 --
 
 ### What makes us stand out from the crowd
