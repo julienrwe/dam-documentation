@@ -89,11 +89,29 @@ We provide our clients with the ability to create and manage digital assets, as 
 
 **We provide complete integration and services to enable digital currency/assets of your choice.**
 
-Establish a frictionless customer experience
+* Establish a frictionless customer experience
+* Streamline business processes to make them more efficient and cost-effective
+* Build a secured operation network
 
-Streamline business processes to make them more efficient and cost-effective.
+### **[#](https://worldline.github.io/dam-documentation/overview.html#dam-blockchain-network)DAM blockchain network**
 
-Build a secured operation network
+This operation network is secured by design and offer key business benefits like :
+
+- **Accurate tracking**, all transaction are timestamped and recorded on the blockchain. For each transaction we can ensure that only the owner of the wallet did the transaction and we can trace back all the transactions done by this user.
+
+- **Permanent data storage**, the DAM network is designed such that no one can change the blockchain, once the transaction blocks get added on the chain, no one can go back and change it. Thus, any user on the network won’t be able to edit, delete or update it past transactions.
+
+- **Instantaneous Settlement**, on DAM because of the blockchain technology that we use, transactions are instantaneous and directly written on the blockchain. The settlement is done automatically ensuring that it's the right user that do a transaction, that he has what we want to send and the rights to do so. Also by design we ensure that there is no double spending that can happen on the platform. Since the network do this settlement for you you can ensure fast settlement time on your application with a high level of security.
+
+- **Verifiable and Trustable**, using your own private blockchain network you will be able to create an ecosystem with your partners where you don't need to trust a third party but a system where at any point you can verify that nobody is cheating on the network. Reinventing trust between multiple parties
+
+
+### **Issuance of digital assets**
+
+The DAM provides a complete and integrated solution for digitizing various assets, such as money, ticketing, loyalty, and vouchers, using blockchain technology. Users can issue digital assets to represent something real or create a purely digital element. Depending on the fungibility of the asset, different types of assets can be successfully issued.
+
+
+[Introduction tokenization]([https://pages.github.com/](https://github.com/julienrwe/dam-documentation/blob/5ec140b9bc81fdb16af024139d55f07586e946c0/src/tokenization.md).
 
 
 
