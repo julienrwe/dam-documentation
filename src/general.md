@@ -111,7 +111,7 @@ This operation network is secured by design and offer key business benefits like
 The DAM provides a complete and integrated solution for digitizing various assets, such as money, ticketing, loyalty, and vouchers, using blockchain technology. Users can issue digital assets to represent something real or create a purely digital element. Depending on the fungibility of the asset, different types of assets can be successfully issued.
 
 
-[Introduction tokenization]([https://pages.github.com/](https://github.com/julienrwe/dam-documentation/blob/5ec140b9bc81fdb16af024139d55f07586e946c0/src/tokenization.md).
+[Introduction tokenization](https://github.com/julienrwe/dam-documentation/blob/5c156e6b374456ec2f7e8c0c2a46b54355dbb941/src/tokenization.md)
 
 
 
