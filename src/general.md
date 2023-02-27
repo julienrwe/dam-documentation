@@ -61,9 +61,19 @@ Powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital p
 
 Own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
 
+### What does this mean for your business and consumers ? 
 
+**#FF0000 A new way of creating your own digital payment experience with concrete benefits for all the actors **
 
+--
 
+### What makes us stand out from the crowd
+
+**#FF0000 Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients **
+
+---
+
+We provide our clients with the ability to create and manage digital assets, as well as build their own payment ecosystems. With our assistance, they can unlock the full potential of their digital assets and achieve greater profitability and success.
 
 
 
