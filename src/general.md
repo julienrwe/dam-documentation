@@ -145,7 +145,7 @@ With DAM you make blockchain simple and accessible for everyone. And with have t
     
 **Easily** integrate the product into existing applications using our **convenient** APIs and user-friendly documentation tools. No **difficulties**, no **trouble**.
 
-#### **Whitelabel Mobile**
+#### **Whitelabel Mobile App**
     
 DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
 
