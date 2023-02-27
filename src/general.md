@@ -79,7 +79,7 @@ We provide our clients with the ability to create and manage digital assets, as 
 
 
 
-## Practical usecases
+## Outstanding features
 
 ### **An end-to-end platform that is ready to use right away.**
 
@@ -149,4 +149,27 @@ With DAM you make blockchain simple and accessible for everyone. And with have t
     
 DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
 
-## Usecases
+## Application Areas
+
+**Digital currencies have the potential to bring profound impacts across different areas, such as asset tokenisation, voucher payments, ecosystem money, settlements and CBDCs**.
+
+**Asset tokenisation** enables the digitisation of real-world assets, allowing them to be traded on the blockchain. This opens up a wide range of possibilities, such as fractional ownership, automated compliance, and improved liquidity.
+
+**Voucher payments** allow users to make payments using digital tokens, providing a more secure and efficient way to transfer value.
+
+**Ecosystem money** is a form of digital currency that is used within a specific platform or ecosystem. This can be used to incentivise users, reward loyalty, and facilitate transactions.
+
+**Settlements** are the process of exchanging funds between two parties, and digital currencies can provide a faster, more secure way to complete these transactions.
+
+**Finally, CBDCs** are digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By providing a more efficient way to transfer value, CBDCs can help to reduce costs and improve financial inclusion.
+
+Take advantage of its offering
+
+**Let's explore how WL Digital can be utilized with examples**
+
+https://www.notion.so/Take-advantage-of-its-offering-00fe7aeb524d4a2c8fe3284a83b76e1b?pvs=4#63ca7ab0bcdf41919bdd77b32341db77
+
+https://www.notion.so/Take-advantage-of-its-offering-00fe7aeb524d4a2c8fe3284a83b76e1b?pvs=4#b7a60e79f39046d7bae590a884022391
+
+
+
