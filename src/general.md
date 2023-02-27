@@ -81,6 +81,19 @@ We provide our clients with the ability to create and manage digital assets, as 
 
 ## Practical usecases
 
+### **An end-to-end platform that is ready to use right away.**
+
+**The adoption of WL Solution will be straight-forward.** We provide an incredible platform that digitalizes the entire value chain. Our mission is to supply versatile building blocks that will meet the diverse implementation requirements of our clients. We are dedicated to ensuring they get the optimal experience!
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0e66d54-1e7e-4321-b478-567fbd0b5ecf/Untitled.png)
+
+**We provide complete integration and services to enable digital currency/assets of your choice.**
+
+Establish a frictionless customer experience
+
+Streamline business processes to make them more efficient and cost-effective.
+
+Build a secured operation network
 
 
 
