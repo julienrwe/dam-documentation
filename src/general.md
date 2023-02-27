@@ -1,5 +1,7 @@
 # General
 
+**Integrate digital currency into your current solutions with our API to provide your services with an enhanced experience.** By partnering with us, you can have your own blockchain solution and make payments more efficient than ever before.
+
 ## Discover the DAM
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex purus, mattis sodales tempor et, ultrices convallis leo. Curabitur at tincidunt ante. Vestibulum justo nisi, vulputate sed ante eget, facilisis ultricies erat. Fusce scelerisque metus et nulla sagittis convallis. Donec dapibus dui quis laoreet facilisis. Mauris eu ante ac tellus faucibus venenatis ac eget ipsum. Nulla ex lorem, tristique eget ex vitae, porta imperdiet ipsum. Curabitur a diam congue, euismod ex blandit, maximus dolor. Curabitur faucibus diam sed finibus iaculis. Nam porttitor luctus purus, a elementum erat bibendum in.
 
