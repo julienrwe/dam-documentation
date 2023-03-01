@@ -64,6 +64,8 @@ To do so we are focus on creating an **innovative**, **modular** and **future
 
 **#FF0000 Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients **
 
+<code style="color : name_color">text</code>
+
 ---
 
 We provide our clients with the ability to create and manage digital assets, as well as build their own payment ecosystems. With our assistance, they can unlock the full potential of their digital assets and achieve greater profitability and success.
