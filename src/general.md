@@ -72,17 +72,11 @@ We provide our clients with the ability to create and manage digital assets, as 
 
 **The adoption of WL Solution will be straight-forward.** We provide an incredible platform that digitalizes the entire value chain. Our mission is to supply versatile building blocks that will meet the diverse implementation requirements of our clients. We are dedicated to ensuring they get the optimal experience!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0e66d54-1e7e-4321-b478-567fbd0b5ecf/Untitled.png)
+<img src="https://user-images.githubusercontent.com/126062813/222208333-b0816f79-a126-440d-803c-ed7e0530098e.png" width="800" height="346">
 
-### **We provide complete integration and services to enable digital currency/assets of your choice.**
+### A secure operational network
 
-* Establish a frictionless customer experience
-* Streamline business processes to make them more efficient and cost-effective
-* Build a secured operation network
-
-### **[#](https://worldline.github.io/dam-documentation/overview.html#dam-blockchain-network)DAM blockchain network**
-
-This operation network is secured by design and offer key business benefits like :
+Our blockchain-based solution enhances the operational network, which is secured by design, and offers key business benefits such as :
 
 - **Accurate tracking**, all transaction are timestamped and recorded on the blockchain. For each transaction we can ensure that only the owner of the wallet did the transaction and we can trace back all the transactions done by this user.
 
