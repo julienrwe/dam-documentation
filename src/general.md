@@ -1,5 +1,7 @@
 # General
 
+![image](https://user-images.githubusercontent.com/126062813/222175073-499ff3a0-ab07-4523-ac4e-e88155a24fba.png) ![image](https://user-images.githubusercontent.com/126062813/222175011-e78eaccb-31ed-4b95-9c18-97c45fad2633.png)
+
 **Integrate digital currency into your current solutions with our API to provide your services with an enhanced experience.** By partnering with us, you can have your own blockchain solution and make payments more efficient than ever before.
 
 ## Discover the DAM
