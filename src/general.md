@@ -15,6 +15,9 @@ These advances are not only providing customers and merchants with **better effi
 ### **The payment revolution is happening**
 **What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?**
 
+<img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300">) 
+<img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">) 
+
 We are building a future where value is transferred as easily and efficiently as information. Where what we call payment will also integrate any products that can be transformed into digital assets.
 
 To do so we are focus on creating an **innovative**, **modular** and **future** proof platform; WL Digital Asset Management to be a key building block of **the future of PayTech**.
