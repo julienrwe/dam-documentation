@@ -53,26 +53,20 @@ To do so we are focus on creating an **innovative**, **modular** and **future
 - **Create new Services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
 
 ### What does this mean for your business and consumers ? 
+***A new way of creating your own digital payment experience with concrete benefits for all the actors***
 
-**#FF0000 A new way of creating your own digital payment experience with concrete benefits for all the actors **
-
-- ![A new way of creating your own digital payment experience with concrete benefits for all the actors](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-
---
+<img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
 
 ### What makes us stand out from the crowd
-
-**#FF0000 Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients **
-
-<code style="color : name_color">text</code>
-
----
+***Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients***
 
 We provide our clients with the ability to create and manage digital assets, as well as build their own payment ecosystems. With our assistance, they can unlock the full potential of their digital assets and achieve greater profitability and success.
 
+![image](https://user-images.githubusercontent.com/126062813/222203157-b5e6423c-8ddd-45a3-a78e-99ca096afdfb.png)
 
 
-## Outstanding features
+
+## Unlock the full potential of all features
 
 ### **An end-to-end platform that is ready to use right away.**
 
