@@ -13,14 +13,13 @@ This technology allows for the seamless digitization of any real-world asset and
 These advances are not only providing customers and merchants with **better efficiency and less operating cost**, but are also revolutionizing money and stimulating the local economy.
 
 ### **The payment revolution is happening**
-**What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?**
-
-<img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300">) 
-<img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">) 
+***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
 We are building a future where value is transferred as easily and efficiently as information. Where what we call payment will also integrate any products that can be transformed into digital assets.
 
-To do so we are focus on creating an **innovative**, **modular** and **future** proof platform; WL Digital Asset Management to be a key building block of **the future of PayTech**.
+To do so we are focus on creating an **innovative**, **modular** and **future** proof platform; WL Digital Asset Management to be a key building block of **the future of PayTech**. 
+
+<img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
 **Go digital with payment solutions that are fast, secure and cost-free**. 
 
@@ -30,41 +29,28 @@ To do so we are focus on creating an **innovative**, **modular** and **future
 
 **We are confidently developing a digital payment platform based on blockchain to empower you to create your own payment system.**
 
-[Introduction to Blockchain](https://github.com/julienrwe/dam-documentation/blob/6a651e4f3feed5462dbc72bbb82a908cad2732f5/src/introduction-blockchain.md).
+[Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
 
 ### **Let's join forces to reinvent digital payments with blockchain! Together, we can create a more efficient and secure system for everyone**
 
+<img src="https://user-images.githubusercontent.com/126062813/222188047-668e88c9-6024-4fb5-8db5-3ef318e8c77e.png" width="500" height="400">
+
+
 <u>Today’s challenges</u>
 
-**No digital native payment**
+- **No digital native payment** : complex and costly solution not fiiting in a digital world
 
-Complex and costly solution not fiiting in a digital world
+- **Hard to maintain genuine trust with multiple partners** : need of centralized third-party authority
 
-**Hard to maintain genuine trust with multiple partners**
-
-Need of centralized third-party authority
-
-**Complexe to create and maintain a business ecosystem**
-
-Expensive and time consuming to coordonate with partners and their solutions
+- **Complexe to create and maintain a business ecosystem** : expensive and time consuming to coordonate with partners and their solutions
 
 <u>Adopting digital assets</u>
 
-**Integrate A Trustable Blockchain Network**
+- **Integrate A Trustable Blockchain Network** : deploy an an instantaneous settlement with accurate tracking, <u>verifiable</u> and <u>trustable</u> for you and your business partners on a private blockchain
 
-* Instantaneous Settlement
-* Accurate Tracking
-* <u>Verifiable</u> and <u>Trustable</u> for you and your business partners on a private blockchain
+- **Make Real World Assets Digital Native** : imagine currency, loyalty program, vouchers, ticketing, commodities... powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
 
-**Make Real World Assets Digital Native**
-
-Currency, Loyalty, Vouchers, Ticketing, Commodities...
-
-Powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
-
-**Create New Services never possible before**
-
-Own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
+- **Create new Services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
 
 ### What does this mean for your business and consumers ? 
 
