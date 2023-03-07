@@ -16,9 +16,9 @@ These advancements not only provide customers and merchants with superior effici
 ### **The payment revolution is already here**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
-We are building a future where value is transferred as easily and efficiently as information. Where what we call payment will also integrate any products that can be transformed into digital assets.
+Our aim is to make transferring value as easy as sending information. We're excited about the idea of including any products that can be digitalized in our payment system !
 
-To do so we are focus on creating an **innovative**, **modular** and **future** proof platform; WL Digital Asset Management to be a key building block of **the future of PayTech**. 
+To achieve this, we are focused on creating a platform called WL Digital Asset Management. This platform is **innovative, modular, and future-proof**, and we believe it will play a crucial role in **shaping the future of PayTech**
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
@@ -97,9 +97,9 @@ The DAM provides a complete and integrated solution for digitizing various asset
 
 ![https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png](https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png)
 
-We call **fungible assets** what can be swapped with other individual items or assets of the same kind. Using this type of asset on the DAM  platform can turn physical assets such as cash or gold into digital currency. It can also be used to issue loyalty points, digital gift cards, or make stock options more liquid using blockchain tokenization.
+On the DAM platform, **fungible assets** refer to items or assets that can be exchanged for other individual items or assets of the same kind. This type of asset can transform physical assets such as cash or gold into digital currency. For example, blockchain tokenization can increase the liquidity of stock options, and enable the issuance of loyalty points and digital gift cards..
 
-**Non-Fungible Assets (NFAs)** are unique and special assets that cannot be exchanged for other assets of the same type. The use of this type of asset on a the DAM platform enables physical assets such as fine art or real estate to be digitized and represented on the blockchain as digital assets known as Non-Fungible Tokens (NFTs). It can also be used to issue digital tickets or represent any digital titles of ownership.
+On the other hand, **Non-Fungible Assets (NFAs)** are unique and irreplaceable. They cannot be interchanged with other assets of the same type. When used on the DAM platform, this type of asset can digitize physical assets such as fine art or real estate, creating digital assets known as Non-Fungible Tokens (NFTs) that are represented on the blockchain. Moreover, it can be used to issue digital tickets or represent digital titles of ownership.
 
 ### **We streamline your operations to meet your business needs** 
 
