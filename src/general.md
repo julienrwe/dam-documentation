@@ -148,9 +148,8 @@ Take advantage of its offering
 
 **Let's explore how WL Digital can be utilized with examples**
 
-https://www.notion.so/Take-advantage-of-its-offering-00fe7aeb524d4a2c8fe3284a83b76e1b?pvs=4#63ca7ab0bcdf41919bdd77b32341db77
+<img src="https://user-images.githubusercontent.com/126062813/223319433-f62a3c13-ab3e-43d8-9ea2-4c5e932f0f70.png" width="800" height="400">
 
-https://www.notion.so/Take-advantage-of-its-offering-00fe7aeb524d4a2c8fe3284a83b76e1b?pvs=4#b7a60e79f39046d7bae590a884022391
+<img src="https://user-images.githubusercontent.com/126062813/223319506-cfba0c71-ba87-497e-9701-4726f652f97a.png" width="800" height="400">
 
-
-
+DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
