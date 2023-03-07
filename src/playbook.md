@@ -65,4 +65,23 @@ All transactions on the blockchain are those that have been successfully execute
 
 The **withdrawal process** is a feature that allows **full or partial transfer** of assets from merchant wallets to issuer wallets, for the purpose of reconciling outside of the application.
 
+![image](https://user-images.githubusercontent.com/126062813/223330859-e09eb465-84bf-4bea-a011-4890dde2b8ad.png)
+
+*Withdrawal of Funds*
+
+To withdraw funds, follow these steps:
+
+### **Cash-out from Issuer**
+
+The issuer can withdraw funds from their dashboard by clicking the withdrawal button. A window will appear with instructions for the process and the option to choose the asset(s) to be processed.
+
+If the issuer agrees, transactions will be created to transfer the chosen assets from the merchant wallets to the issuer wallet. A withdrawal file will be generated for the issuer to pay merchants with regular currency outside the product. Emails will be sent to both the issuer and the other parties. The issuer will receive an email with a link to download the withdrawal file, while the other email will contain a list of transactions from the wallets.
+
+### **Cash-out from Merchant**
+
+Merchants can withdraw funds from their wallets by making a request through their dashboard. This option is only available for assets with a balance.
+
+A window will appear with instructions, including the amount of the asset to withdraw.
+
+Once the merchant confirms the action, a withdrawal request will be generated and an email will be sent to the issuer for validation. Upon confirmation, a blockchain transaction will be made and emails will be sent to both parties. The withdrawal request will then be set to finalized status.
 
