@@ -2,17 +2,18 @@
 
 ![image](https://user-images.githubusercontent.com/126062813/222175073-499ff3a0-ab07-4523-ac4e-e88155a24fba.png) ![image](https://user-images.githubusercontent.com/126062813/222175011-e78eaccb-31ed-4b95-9c18-97c45fad2633.png)
 
-**Integrate digital currency into your current solutions with our API to provide your services with an enhanced experience.** By partnering with us, you can have your own blockchain solution and make payments more efficient than ever before.
+**Speed up the issuance of your assets by converting them into digital assets**, thereby simplifying their management and distribution. As a bonus, we provide a set of APIs to deliver an improved customer experience. **Offering a seamless journey of your product** has never been easier.
+
 
 ## Discover the DAM
 
-As the world continues to embrace digital solutions, **Blockchain** technology is offering businesses a secure and distributed ecosystem to create **frictionless, programmable, and trustable** digital payment experiences. 
+As the world continues to embrace digital solutions, **Blockchain technology** confidently offers businesses a secure and distributed ecosystem to create **frictionless**, **programmable**, and **trustworthy** digital payment experiences.
 
-This technology allows for the seamless digitization of any real-world asset and **enables businesses to streamline their processes** by incorporating their own business rules into the shared ecosystem. Through this, multinational retailers, trade associations, and even governments are able to partner with each other, **reinventing trust** and creating more than just payments in their digital payment ecosystems. 
+This technology effortlessly digitizes any real-world asset and **empowers businesses to improve their processes by incorporating their own business rules** into a shared ecosystem. This enables multinational retailers, trade associations, and even governments to collaborate in order to redefine the concept of trust and revolutionize a value transfer network that can be customized to their exact specifications.
 
-These advances are not only providing customers and merchants with **better efficiency and less operating cost**, but are also revolutionizing money and stimulating the local economy.
+These advancements not only provide customers and merchants with superior efficiency and lower operating costs, but also revolutionize money, particularly in a local economy context.
 
-### **The payment revolution is happening**
+### **The payment revolution is already here**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
 We are building a future where value is transferred as easily and efficiently as information. Where what we call payment will also integrate any products that can be transformed into digital assets.
