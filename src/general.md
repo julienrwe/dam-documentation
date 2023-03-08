@@ -115,14 +115,14 @@ DAM is integrated with many WL products and can also be connected to external pr
 
 We offer a comprehensive web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application also include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bf44b23-1471-4a41-a057-3cf6803b26e7/Untitled.png)
+<img src="https://user-images.githubusercontent.com/126062813/223772384-207b6d09-e917-4b57-8445-2b93ad966c16.png" width="500" height="330">
 
 ### **Empower frictionless customer experience**
     
 With DAM you make blockchain simple and accessible for everyone. And with have the rights tools for developers, merchant and end user to accelerate adoption and reduce time to market.
-    
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f771ee8-5235-44a7-b5ac-6aca26c4b385/Untitled.png)
-    
+
+<img src="https://user-images.githubusercontent.com/126062813/223772488-e04357ed-d02f-49ae-a179-32f799f8bd12.png" width="500" height="330">
+
 #### **API**
     
 **Easily** integrate the product into existing applications using our **convenient** APIs and user-friendly documentation tools. No **difficulties**, no **trouble**.
