@@ -39,7 +39,7 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
         { text: 'Asset Management', link: '/playbook/#asset-management' },
         { text: 'Loyalty Programs', link: '/playbook/#loyatly' },
         { text: 'Organisation', link: '/playbook/#organisation' },
-        { text: 'Wallet', link: '/playbook/#wallet' },
+        { text: 'Wallets', link: '/playbook/#wallets' },
         { text: 'Transactions', link: '/playbook/#transactions' }
         ]},
       { text: 'Getting Started', collapsible: true, children: [
