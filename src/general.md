@@ -7,7 +7,7 @@
 
 ## Discover the DAM
 
-As the world continues to embrace digital solutions, **Blockchain technology** confidently offers businesses a secure and distributed ecosystem to create **frictionless**, **programmable**, and **trustworthy** digital payment experiences.
+<b>As </b> the world continues to embrace digital solutions, **Blockchain technology** confidently offers businesses a secure and distributed ecosystem to create **frictionless**, **programmable**, and **trustworthy** digital payment experiences.
 
 This technology effortlessly digitizes any real-world asset and **empowers businesses to improve their processes by incorporating their own business rules** into a shared ecosystem. This enables multinational retailers, trade associations, and even governments to collaborate in order to redefine the concept of trust and revolutionize a value transfer network that can be customized to their exact specifications.
 
