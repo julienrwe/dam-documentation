@@ -30,10 +30,10 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
         { text: 'Discover the DAM', link: '/general/#discover-the-dam',  children: [ 
           { text: 'Introduction to Blockchain', link: '/introduction-blockchain'} 
         ] },
-        { text: 'Practical Usecases', collapsible: false, link: '/general/#practical-usecases', children: [
+        { text: 'Unlock the full potential of all features', collapsible: false, link: '/general/#unlock-the-full-potential-of-all-features', children: [
           { text: 'Tokenization', link: '/tokenization' }
         ] },
-        { text: 'Usecases', link: '/general/#usecases' }
+        { text: 'Application Areas', link: '/general/#application-areas' }
       ]},
       { text: 'Playbook', collapsible: true, children: [
         { text: 'Asset Management', link: '/playbook/#asset-management' },
