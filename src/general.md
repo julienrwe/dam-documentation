@@ -131,6 +131,9 @@ Blockchain is made simple and accessible to everyone through Worldline Digital C
     
 Our solution uses mobile wallets to make it easier for users to use digital assets and currencies in their daily lives. These wallets can be personalized and branded to match any business's needs. They let users access digital assets instantly and keep them secure.
 
+### **Structure of the solution**
+
+
 ## Application Areas
 
 **Digital currencies have the potential to bring profound impacts across different areas, such as asset tokenisation, voucher payments, ecosystem money, settlements and CBDCs**.
