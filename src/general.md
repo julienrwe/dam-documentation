@@ -2,23 +2,23 @@
 
 ![image](https://user-images.githubusercontent.com/126062813/222175073-499ff3a0-ab07-4523-ac4e-e88155a24fba.png) ![image](https://user-images.githubusercontent.com/126062813/222175011-e78eaccb-31ed-4b95-9c18-97c45fad2633.png)
 
-**Speed up the issuance of your assets by converting them into digital assets**, thereby simplifying their management and distribution. As a bonus, we provide a set of APIs to deliver an improved customer experience. **Offering a seamless journey of your product** has never been easier.
+**Speed up the digital transformation of your assets and make their management and distribution simpler.** Providing a seamless journey for your product has never been easier. Choose a smooth customer experience with the integration of our API solution
 
 
 ## Discover the DAM
 
-As the world continues to embrace digital solutions, **Blockchain technology** confidently offers businesses a secure and distributed ecosystem to create **frictionless**, **programmable**, and **trustworthy** digital payment experiences.
+The COVID-19 pandemic has led to changes in the way businesses and organizations operate worldwide. To survive and succeed in an ever-changing environment, they have had to adapt and change their strategies. In the payments sector, major changes have taken place such as payment automation, cashierless stores, and the integration of mobile applications to improve the customer experience. Moreover, new applications are emerging due to the rise of Blockchain technology.
 
-This technology effortlessly digitizes any real-world asset and **empowers businesses to improve their processes by incorporating their own business rules** into a shared ecosystem. This enables multinational retailers, trade associations, and even governments to collaborate in order to redefine the concept of trust and revolutionize a value transfer network that can be customized to their exact specifications.
+As digitization continues to expand, **Blockchain technology provides the ability to represent value online with a focus on transparency and interoperability**. The fundamental aim of blockchain is to empower users by providing them with greater choice and control. Given the increasing prevalence of multichannel, prioritizing user experience can truly make it effective.
 
-These advancements not only provide customers and merchants with superior efficiency and lower operating costs, but also revolutionize money, particularly in a local economy context.
+Moreover, the technology enables **the effortless digitization of real-world assets and assists businesses in streamlining their processes by incorporating their own business rules into a shared ecosystem**. Users can interact with each other without the need for a third party intermediary. All information recorded on the Blockchain is unfalsifiable, immutable, and can be verified at any time.
 
-### **The payment revolution is already here**
+This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a seamless customer experience. **This is the essence of what DAM proposes**
+
+### ** A new era of payments**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
-Our aim is to make transferring value as easy as sending information. We're excited about the idea of including any products that can be digitalized in our payment system !
-
-To achieve this, we are focused on creating a platform called WL Digital Asset Management. This platform is **innovative, modular, and future-proof**, and we believe it will play a crucial role in **shaping the future of PayTech**
+Our goal is to make it easy to transfer value, just like sending information to each other. To achieve this, we plan to allow the digitization of any product or asset through WorldLine Digital Asset Management console. This platform is both **innovative** and **modular**, and is expected to play a crucial role in shaping the future of PayTech.
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
@@ -28,7 +28,7 @@ To achieve this, we are focused on creating a platform called WL Digital Asset M
 * Reduce the risk of fraud and increase customer satisfaction
 * Make it easier for customers to make payments quickly and securely
 
-**We are confidently developing a digital payment platform based on blockchain to empower you to create your own payment system.**
+**We are thrilled to assist you in creating a cutting-edge digital payment platform based on blockchain technology. Our platform is designed to give you the confidence and ease to create your own payment system.**
 
 [Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
 
