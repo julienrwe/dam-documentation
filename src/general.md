@@ -89,19 +89,19 @@ Our blockchain-based solution enhances the operational network, which is secured
 
 
 ### **Issuance of digital assets**
-
-The DAM provides a complete and integrated solution for digitizing various assets, such as money, ticketing, loyalty, and vouchers. Users can issue digital assets to represent something real or create a purely digital element. Depending on the fungibility of the asset, different types of assets can be successfully issued.
+**A comprehensive and integrated solution for digitizing various assets is offered by our product**. It is also possible to attach a value to a purely fictional asset by giving it a digital representation. Tokenization is the term used to describe this asset digitalization. It's critical to take into account the digital asset's fungibility, which determines its management mode, regardless of the representation it has.
 
 
 [Introduction tokenization](https://github.com/julienrwe/dam-documentation/blob/5c156e6b374456ec2f7e8c0c2a46b54355dbb941/src/tokenization.md)
 
+On Worldline's digital currency platform, there are two types of assets: **fungible and non-fungible**. **Fungible assets** are interchangeable because they do not have unique properties. Examples of **fungible assets** include tokenized water or gold, which can be traded based on their assigned value.
+
+Nevertheless, if tokens represent unique assets, they cannot be exchanged for each other. Instead, they can only be purchased using accepted means of exchange. These unique assets are called **non-fungible assets**, which have gained popularity through the use of NFTs. **Non-fungible asset**s are well-suited for art or real estate.
+
 ![https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png](https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png)
 
-On the DAM platform, **fungible assets** refer to items or assets that can be exchanged for other individual items or assets of the same kind. This type of asset can transform physical assets such as cash or gold into digital currency. For example, blockchain tokenization can increase the liquidity of stock options, and enable the issuance of loyalty points and digital gift cards..
 
-On the other hand, **Non-Fungible Assets (NFAs)** are unique and irreplaceable. They cannot be interchanged with other assets of the same type. When used on the DAM platform, this type of asset can digitize physical assets such as fine art or real estate, creating digital assets known as Non-Fungible Tokens (NFTs) that are represented on the blockchain. Moreover, it can be used to issue digital tickets or represent digital titles of ownership.
-
-### **We streamline your operations to meet your business needs** 
+### **Operational excellence tailored to your business issues** 
 
 **Configure assets according to your need**
 
@@ -109,17 +109,17 @@ Our product is designed to provide lots of helpful business rules that can help 
 
 **Shape the plateform for your business** 
 
-DAM is integrated with many WL products and can also be connected to external providers for KYC, Payment Gateway and additional services, allowing you to link your daily processes to this private blockchain platform.
+Worldline is integrated with many other native products, and can also be connected to external providers for KYC, payment gateway, and additional services. This allows you to link your daily processes to the private blockchain platform.
 
 **Simple tools for reporting and monitoring**
 
-We offer a comprehensive web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application also include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
+A comprehensive web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
 
 <img src="https://user-images.githubusercontent.com/126062813/223772384-207b6d09-e917-4b57-8445-2b93ad966c16.png" width="500" height="330">
 
 ### **Empower frictionless customer experience**
     
-With DAM you make blockchain simple and accessible for everyone. And with have the rights tools for developers, merchant and end user to accelerate adoption and reduce time to market.
+Blockchain is made simple and accessible to everyone through Worldline Digital Currency. We have the appropriate tools for developers, retailers, and end users to accelerate adoption and shorten time to market.
 
 <img src="https://user-images.githubusercontent.com/126062813/223772488-e04357ed-d02f-49ae-a179-32f799f8bd12.png" width="500" height="330">
 
@@ -129,7 +129,7 @@ With DAM you make blockchain simple and accessible for everyone. And with have t
 
 #### **Whitelabel Mobile App**
     
-DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
+Our solution uses mobile wallets to make it easier for users to use digital assets and currencies in their daily lives. These wallets can be personalized and branded to match any business's needs. They let users access digital assets instantly and keep them secure.
 
 ## Application Areas
 
