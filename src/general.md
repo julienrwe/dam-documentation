@@ -32,7 +32,7 @@ Our goal is to make it easy to transfer value, just like sending information to 
 
 [Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
 
-### **Let's join forces to reinvent digital payments with blockchain! Together, we can create a more efficient and secure system for everyone**
+### **Let's join forces to reinvent digital payments ! Together, we can create a more efficient and secure system for everyone**
 
 <img src="https://user-images.githubusercontent.com/126062813/222188047-668e88c9-6024-4fb5-8db5-3ef318e8c77e.png" width="500" height="400">
 
@@ -59,9 +59,9 @@ Our goal is to make it easy to transfer value, just like sending information to 
 <img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
 
 ### What makes us stand out from the crowd
-***Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients***
+***Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients, under your direct and unique supervision***
 
-We provide our clients with the ability to create and manage digital assets, as well as build their own payment ecosystems. With our assistance, they can unlock the full potential of their digital assets and achieve greater profitability and success.
+Get the most out of your assets to increase their profitability and success. Create as many digital twins or assets as you want and manage them efficiently to customize your own payment ecosystem.
 
 ![image](https://user-images.githubusercontent.com/126062813/222203157-b5e6423c-8ddd-45a3-a78e-99ca096afdfb.png)
 
