@@ -138,24 +138,22 @@ Our solution uses mobile wallets to make it easier for users to use digital asse
 
 ## Application Areas
 
-**Digital currencies have the potential to bring profound impacts across different areas, such as asset tokenisation, voucher payments, ecosystem money, settlements and CBDCs**.
+**Tokenization has the potential to make a big impact in several areas, including asset digitization, voucher payments, ecosystem currency, settlements, and CBDC.**
 
-**Asset tokenisation** enables the digitisation of real-world assets, allowing them to be traded on the blockchain. This opens up a wide range of possibilities, such as fractional ownership, automated compliance, and improved liquidity.
+On the blockchain, **asset digitization** can enable fractional ownership, automated compliance, and improved liquidity.
 
-**Voucher payments** allow users to make payments using digital tokens, providing a more secure and efficient way to transfer value.
+With **voucher payments**, digital tokens are used for payment, making it a safer, more efficient, and cheaper alternative to traditional value transfer methods.
 
-**Ecosystem money** is a form of digital currency that is used within a specific platform or ecosystem. This can be used to incentivise users, reward loyalty, and facilitate transactions.
+**Ecosystem currency** is a form of digital currency used within a specific platform or environment. This can incentivize users, reward loyalty, and facilitate transactions.
 
-**Settlements** are the process of exchanging funds between two parties, and digital currencies can provide a faster, more secure way to complete these transactions.
+**Settlements** involve the exchange of funds between two parties, and digital currencies can provide a faster and more secure way to conduct these transactions.
 
-**Finally, CBDCs** are digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By providing a more efficient way to transfer value, CBDCs can help to reduce costs and improve financial inclusion.
+**CBDCs** are essentially digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By complementing existing payment methods, **CBDCs** can help improve financial inclusivity and contribute to monetary stability by providing more flexibility.
 
-Take advantage of its offering
 
-**Let's explore how WL Digital can be utilized with examples**
+**Let's explore how Worldline Digital Currency can be utilized with theses examples**
 
 <img src="https://user-images.githubusercontent.com/126062813/223319433-f62a3c13-ab3e-43d8-9ea2-4c5e932f0f70.png" width="800" height="400">
 
 <img src="https://user-images.githubusercontent.com/126062813/223319506-cfba0c71-ba87-497e-9701-4726f652f97a.png" width="800" height="400">
 
-DAM provides mobile wallets that can be customized with branding, allowing merchants and end users to easily adopt digital currency and digital assets into their daily lives. DAM creates a mobile-first digital payment experience with a great user experience for customers.
