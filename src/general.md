@@ -133,6 +133,8 @@ Our solution uses mobile wallets to make it easier for users to use digital asse
 
 ### **Structure of the solution**
 
+![image](https://user-images.githubusercontent.com/126062813/224762679-973bbec1-0383-4b57-ac1f-ab5503ba5a5b.png)
+
 
 ## Application Areas
 
