@@ -71,7 +71,7 @@ Get the most out of your assets to increase their profitability and success. Cre
 
 ### **An end-to-end platform that is ready to use right away.**
 
-**The adoption of WL Solution will be straight-forward.** We provide an incredible platform that digitalizes the entire value chain. Our mission is to supply versatile building blocks that will meet the diverse implementation requirements of our clients. We are dedicated to ensuring they get the optimal experience!
+**It's easy to start using the Worldline Digital Currency solution.** The platform digitizes the entire value chain and offers a range of versatile building blocks to meet your diverse needs. We are committed to ensuring that you have the best possible experience.
 
 <img src="https://user-images.githubusercontent.com/126062813/222208333-b0816f79-a126-440d-803c-ed7e0530098e.png" width="800" height="346">
 
@@ -90,7 +90,7 @@ Our blockchain-based solution enhances the operational network, which is secured
 
 ### **Issuance of digital assets**
 
-The DAM provides a complete and integrated solution for digitizing various assets, such as money, ticketing, loyalty, and vouchers, using blockchain technology. Users can issue digital assets to represent something real or create a purely digital element. Depending on the fungibility of the asset, different types of assets can be successfully issued.
+The DAM provides a complete and integrated solution for digitizing various assets, such as money, ticketing, loyalty, and vouchers. Users can issue digital assets to represent something real or create a purely digital element. Depending on the fungibility of the asset, different types of assets can be successfully issued.
 
 
 [Introduction tokenization](https://github.com/julienrwe/dam-documentation/blob/5c156e6b374456ec2f7e8c0c2a46b54355dbb941/src/tokenization.md)
