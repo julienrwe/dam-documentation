@@ -18,7 +18,7 @@ This simplification offers distributors and merchants a more efficient value cha
 ### ** A new era of payments**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
-Our goal is to make it easy to transfer value, just like sending information to each other. To achieve this, we plan to allow the digitization of any product or asset through WorldLine Digital Asset Management console. This platform is both **innovative** and **modular**, and is expected to play a crucial role in shaping the future of PayTech.
+Our goal is to make it easy to transfer value, just like sending information to each other. To achieve this, we plan to allow the digitization of any product or asset through Worldline Digital Asset Management console. This platform is both **innovative** and **modular**, and is expected to play a crucial role in shaping the future of PayTech.
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
