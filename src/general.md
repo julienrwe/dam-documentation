@@ -13,7 +13,7 @@ As digitization continues to expand, **Blockchain technology provides the abilit
 
 Moreover, the technology enables **the effortless digitization of real-world assets and assists businesses in streamlining their processes by incorporating their own business rules into a shared ecosystem**. Users can interact with each other without the need for a third party intermediary. All information recorded on the Blockchain is unfalsifiable, immutable, and can be verified at any time.
 
-This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a seamless customer experience. **This is the essence of what DAM proposes**
+This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a frictionless customer experience. **This is the essence of what DAM proposes**
 
 ### ** A new era of payments**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
