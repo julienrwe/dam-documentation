@@ -13,12 +13,12 @@ As digitization continues to expand, **Blockchain technology provides the abilit
 
 Moreover, the technology enables **the effortless digitization of real-world assets and assists businesses in streamlining their processes by incorporating their own business rules into a shared ecosystem**. Users can interact with each other without the need for a third party intermediary. All information recorded on the Blockchain is unfalsifiable, immutable, and can be verified at any time.
 
-This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a frictionless customer experience. **This is the essence of what DAM proposes**
+This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a top notch customer experience. **This is the essence of what DAM proposes**
 
 ### **A new era of payments**
-***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
+***What if you could create your own digital payment ecosystem and leverage it to become your competitive edge ?***
 
-Our goal is to make it easy to transfer value, just like sending information to each other. To achieve this, we plan to allow the digitization of any product or asset through Worldline Digital Asset Management console. This platform is both **innovative** and **modular**, and is expected to play a crucial role in shaping the future of PayTech.
+Our goal is to make the transfer of any value carrier as easy as it is for information. To achieve this, we plan to enable the digitization of any product or asset through the Worldline Digital Asset Management console. This platform is both **innovative** and **modular**, and should play a crucial role in shaping the future of PayTech.
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
@@ -30,6 +30,7 @@ Our goal is to make it easy to transfer value, just like sending information to 
 
 **We are thrilled to assist you in creating a cutting-edge digital payment platform based on blockchain technology. Our platform is designed to give you the confidence and ease to create your own payment system.**
 
+
 [Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
 
 ### **Let's join forces to reinvent digital payments ! Together, we can create a more efficient and secure system for everyone**
@@ -39,7 +40,7 @@ Our goal is to make it easy to transfer value, just like sending information to 
 
 <u>Today’s challenges</u>
 
-- **No digital native payment** : complex and costly solution not fiiting in a digital world
+- **No digital native payment** : complex and costly solution not fitting in a digital world
 
 - **Hard to maintain genuine trust with multiple partners** : need of centralized third-party authority
 
@@ -47,11 +48,11 @@ Our goal is to make it easy to transfer value, just like sending information to 
 
 <u>Adopting digital assets</u>
 
-- **Integrate A Trustable Blockchain Network** : deploy an an instantaneous settlement with accurate tracking, <u>verifiable</u> and <u>trustable</u> for you and your business partners on a private blockchain
+- **Integrate a trustable blockchain betwork** : deploy an instantaneous settlement with accurate tracking, <u>verifiable</u> and <u>trustable</u> for you and your business partners on a private blockchain
 
 - **Make Real World Assets Digital Native** : imagine currency, loyalty program, vouchers, ticketing, commodities... powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
 
-- **Create new Services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Create <u>new services with multiple digital assets interacting</u> on a all-in-one platform.
+- **Create new services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Build a new offering with multiple interacting digital assets on an all-in-one platform.
 
 ### What does this mean for your business and consumers ? 
 ***A new way of creating your own digital payment experience with concrete benefits for all the actors***
@@ -79,11 +80,11 @@ Get the most out of your assets to increase their profitability and success. Cre
 
 Our blockchain-based solution enhances the operational network, which is secured by design, and offers key business benefits such as :
 
-- **Accurate tracking**, all transaction are timestamped and recorded on the blockchain. For each transaction we can ensure that only the owner of the wallet did the transaction and we can trace back all the transactions done by this user.
+- **Accurate tracking** : all transaction are timestamped and recorded on the blockchain. For each transaction we can ensure that only the owner of the wallet did the transaction and we can trace back all the transactions done by this user.
 
-- **Permanent data storage**, the DAM network is designed such that no one can change the blockchain, once the transaction blocks get added on the chain, no one can go back and change it. Thus, any user on the network won’t be able to edit, delete or update it past transactions.
+- **Permanent data storage** : once a transaction is confirmed, it is recorded in a block that will add it to chain of blocks containing previously completed transactions. No one can go back and modify them. Hence, no user of the network will be able to alter, delete or update past transactions.
 
-- **Instantaneous Settlement**, on DAM because of the blockchain technology that we use, transactions are instantaneous and directly written on the blockchain. The settlement is done automatically ensuring that it's the right user that do a transaction, that he has what we want to send and the rights to do so. Also by design we ensure that there is no double spending that can happen on the platform. Since the network do this settlement for you you can ensure fast settlement time on your application with a high level of security.
+- **Instantaneous Settlement**, the underlying technology of the network allows instant settlement of transactions without the risk of double spending or error with a high level of security.
 
 - **Verifiable and Trustable**, using your own private blockchain network you will be able to create an ecosystem with your partners where you don't need to trust a third party but a system where at any point you can verify that nobody is cheating on the network. Reinventing trust between multiple parties
 
