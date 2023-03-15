@@ -84,25 +84,28 @@ Our blockchain-based solution enhances the operational network, which is secured
 
 - **Permanent data storage** : once a transaction is confirmed, it is recorded in a block that will add it to chain of blocks containing previously completed transactions. No one can go back and modify them. Hence, no user of the network will be able to alter, delete or update past transactions.
 
-- **Instantaneous Settlement**, the underlying technology of the network allows instant settlement of transactions without the risk of double spending or error with a high level of security.
+- **Instantaneous Settlement** : the underlying technology of the network allows instant settlement of transactions without the risk of double spending or error with a high level of security.
 
-- **Verifiable and Trustable**, using your own private blockchain network you will be able to create an ecosystem with your partners where you don't need to trust a third party but a system where at any point you can verify that nobody is cheating on the network. Reinventing trust between multiple parties
+- **Verifiable and Trustable** : using your own private blockchain network you will be able to create an ecosystem with your partners where you don't need to trust a third party but a system where at any point you can verify that nobody is cheating on the network. Reinventing trust between multiple parties
 
 
 ### **Issuance of digital assets**
-**A comprehensive and integrated solution for digitizing various assets is offered by our product**. It is also possible to attach a value to a purely fictional asset by giving it a digital representation. Tokenization is the term used to describe this asset digitalization. It's critical to take into account the digital asset's fungibility, which determines its management mode, regardless of the representation it has.
+
+As **our product offers a comprehensive and integrated solution for the digitization of various assets**. It is also possible to assign a value to a purely fictional asset by giving it a digital representation. Tokenization is the term used to describe this digitization of assets. It is essential to take into account the fungibility of the digital asset, which determines how it's managed, regardless of its representation.
 
 
 [Introduction tokenization](https://github.com/julienrwe/dam-documentation/blob/5c156e6b374456ec2f7e8c0c2a46b54355dbb941/src/tokenization.md)
 
-On Worldline's digital currency platform, there are two types of assets: **fungible and non-fungible**. **Fungible assets** are interchangeable because they do not have unique properties. Examples of **fungible assets** include tokenized water or gold, which can be traded based on their assigned value.
+On Worldline's digital currency platform, there are two types of assets : **fungible and non-fungible**. 
+**Fungible assets** are interchangeable because they do not have unique properties. 
+Examples of **fungible assets** include tokenized water or gold, which can be traded based on their assigned value.
 
 Nevertheless, if tokens represent unique assets, they cannot be exchanged for each other. Instead, they can only be purchased using accepted means of exchange. These unique assets are called **non-fungible assets**, which have gained popularity through the use of NFTs. **Non-fungible asset**s are well-suited for art or real estate.
 
 ![https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png](https://worldline.github.io/dam-documentation/screens/AssetTypeDAM.png)
 
 
-### **Operational excellence tailored to your business issues** 
+### **Day-to-day running tailored to your business issues** 
 
 **Configure assets according to your need**
 
@@ -114,13 +117,13 @@ Worldline is integrated with many other native products, and can also be connect
 
 **Simple tools for reporting and monitoring**
 
-A comprehensive web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
+A web application that enables issuers to monitor blockchain transactions, search and audit trails in a transparent manner. The application include custom dashboard and reporting tools to facilitate the monitoring process for users and their partners.
 
 <img src="https://user-images.githubusercontent.com/126062813/223772384-207b6d09-e917-4b57-8445-2b93ad966c16.png" width="500" height="330">
 
 ### **Empower frictionless customer experience**
     
-Blockchain is made simple and accessible to everyone through Worldline Digital Currency. We have the appropriate tools for developers, retailers, and end users to accelerate adoption and shorten time to market.
+Blockchain is made simple and accessible to everyone through Worldline Digital Currency software. We have the appropriate tools for developers, retailers, and end users to accelerate adoption and shorten time to market.
 
 <img src="https://user-images.githubusercontent.com/126062813/223772488-e04357ed-d02f-49ae-a179-32f799f8bd12.png" width="500" height="330">
 
