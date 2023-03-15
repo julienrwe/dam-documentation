@@ -15,7 +15,7 @@ Moreover, the technology enables **the effortless digitization of real-world ass
 
 This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a frictionless customer experience. **This is the essence of what DAM proposes**
 
-### ** A new era of payments**
+### **A new era of payments**
 ***What if you could create your own digital payment ecosystem and leverage it to become your competitve edge ?***
 
 Our goal is to make it easy to transfer value, just like sending information to each other. To achieve this, we plan to allow the digitization of any product or asset through Worldline Digital Asset Management console. This platform is both **innovative** and **modular**, and is expected to play a crucial role in shaping the future of PayTech.
