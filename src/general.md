@@ -55,11 +55,6 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 - **Create new services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Build a new offering with multiple interacting digital assets on an all-in-one platform.
 
 
-### What does this mean for your business and consumers ? 
-***A new way to enhance your payment experience that will benefit all the involved partie***
-
-<img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
-
 ### How does it work in practice ?
 
 From your management area, you can create as many assets as you want and deploy them to the beneficiaries you choose. Each issued token is tracked on a private digital database that only you can access, along with the corresponding resulting data. Converting to digital currency, or vice versa, is a simple process that takes just a few click
@@ -67,6 +62,11 @@ From your management area, you can create as many assets as you want and deploy 
 **Get the most out of your assets to increase their profitability and success** 
 
 ![image](https://user-images.githubusercontent.com/126062813/222203157-b5e6423c-8ddd-45a3-a78e-99ca096afdfb.png)
+
+### What does this mean for your business and consumers ? 
+***A new way to enhance your payment experience that will benefit all the involved partie***
+
+<img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
 
 
 ## Unlock the full potential of all features
