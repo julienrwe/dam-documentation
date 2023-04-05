@@ -28,7 +28,7 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 * Reduce the risk of fraud and increase customer satisfaction
 * Make it easier for customers to make payments quickly and securely
 
-**We are thrilled to assist you in creating a cutting-edge digital blockchain-based digital payment infrastructure. Our platform is designed to give you the confidence and ease to create your own payment system.**
+**We are thrilled to assist you in creating a cutting-edge blockchain-based digital payment infrastructure. Our platform is designed to give you the confidence and ease to create your own payment system.**
 
 
 [Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
@@ -56,7 +56,7 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 
 ## Application Areas
 
-**Tokenization has the potential to make a big impact in several areas, including asset digitization, voucher payments, ecosystem currency, settlements, and CBDC.**
+**Digital assets can totally transform many industries, through voucher payment, ecosystem currency, faster transactional settlement or even a central bank digital currency (CBDC).**
 
 On a blockchain, **asset digitization** can enable fractional ownership, automated compliance, and improved liquidity.
 
@@ -68,9 +68,9 @@ With **voucher payments**, digital tokens are used for payment, making it a safe
 
 **CBDCs** are essentially digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By complementing existing payment methods, **CBDCs** can help improve financial inclusivity and contribute to monetary stability by providing more flexibility.
 
-### How does it work in practice ?
+### How to put it into practice ?
 
-From your management area, you can create as many assets as you want and deploy them to the beneficiaries you choose. Each issued token is tracked on a private digital database that only you can access, along with the corresponding resulting data. Converting to digital currency, or vice versa, is a simple process that takes just a few click
+From your management area, you can create as many assets as you want and deploy them to the beneficiaries you choose. Each issued token is tracked on a private digital database that only you can access, along with the corresponding data. Converting from fiat to digital currency, or vice versa, is a simple process that takes just a few click.
 
 **Get the most out of your assets to increase their profitability and success** 
 
