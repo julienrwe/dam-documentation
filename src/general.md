@@ -13,7 +13,7 @@ As digitization continues to expand, **Blockchain technology provides the abilit
 
 Moreover, the technology enables **the effortless digitization of real-world assets and assists businesses in streamlining their processes by incorporating their own business rules into a shared ecosystem**. Users can interact with each other without the need for a third party intermediary. All information recorded on the Blockchain is unfalsifiable, immutable, and can be verified at any time.
 
-This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a top notch customer experience. **This is the essence of what World Digital Currency solution has to offer**
+This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a top notch customer experience. **This is the essence of what World Digital Currency solution has to offer.**
 
 ### **A Digital Closed Loop System**
 ***What if you could harness new technological advancements to create your own digital payment ecosystem and leverage it to gain a competitive advantage ?***
@@ -64,7 +64,7 @@ From your management area, you can create as many assets as you want and deploy 
 ![image](https://user-images.githubusercontent.com/126062813/222203157-b5e6423c-8ddd-45a3-a78e-99ca096afdfb.png)
 
 ### What does this mean for your business and consumers ? 
-***A new way to enhance your payment experience that will benefit all the involved partie***
+***A new way to enhance your payment experience that will benefit all the involved parties***
 
 <img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
 
