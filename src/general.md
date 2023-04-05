@@ -50,13 +50,13 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 
 - **Integrate a trustable blockchain betwork** : deploy an instantaneous settlement with accurate tracking, <u>verifiable</u> and <u>trustable</u> for you and your business partners on a private blockchain
 
-- **Make Real World Assets Digital Native** : imagine currency, loyalty program, vouchers, ticketing, commodities... powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
+- **Make Real-World Assets (RWA) Digital Native** : imagine currency, loyalty program, vouchers, ticketing, commodities... powering a <u>secured</u>, <u>frictionless</u>  and <u>programable</u> digital payment experience
 
 - **Create new services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Build a new offering with multiple interacting digital assets on an all-in-one platform.
 
 ## Application Areas
 
-**Digital assets can totally transform many industries, through voucher payment, ecosystem currency, faster transactional settlement or even a central bank digital currency (CBDC).**
+**Assets digitazation can totally transform many industries, through voucher payment, ecosystem currency, faster transactional settlement or even a central bank digital currency (CBDC).**
 
 On a blockchain, **asset digitization** can enable fractional ownership, automated compliance, and improved liquidity.
 
