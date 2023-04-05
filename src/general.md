@@ -5,7 +5,7 @@
 **Speed up the digital transformation of your assets and make their management and distribution simpler.** Providing a seamless journey for your product has never been easier. Choose a smooth customer experience with the integration of our API solution
 
 
-## Discover the DAM
+## Discover Worldline Digital Currency Platform
 
 The COVID-19 pandemic has led to changes in the way businesses and organizations operate worldwide. To survive and succeed in an ever-changing environment, they have had to adapt and change their strategies. In the payments sector, major changes have taken place such as payment automation, cashierless stores, and the integration of mobile applications to improve the customer experience. Moreover, new applications are emerging due to the rise of Blockchain technology.
 
@@ -15,10 +15,10 @@ Moreover, the technology enables **the effortless digitization of real-world ass
 
 This simplification offers distributors and merchants a more efficient value chain, leading to a reduction in operating costs and a top notch customer experience. **This is the essence of what DAM proposes**
 
-### **A new era of payments**
-***What if you could create your own digital payment ecosystem and leverage it to become your competitive edge ?***
+### **A Digital Closed Loop System**
+***What if you could harness new technological advancements to create your own digital payment ecosystem and leverage it to gain a competitive advantage ?***
 
-Our goal is to make the transfer of any value carrier as easy as it is for information. To achieve this, we plan to enable the digitization of any product or asset through the Worldline Digital Asset Management console. This platform is both **innovative** and **modular**, and should play a crucial role in shaping the future of PayTech.
+Our goal is to make value transfer as easy as sharing knowledge. To achieve this, we have created a solution that can digitize any product or asset. Our blockchain-based platform allows for tokenization, trade, and direct transfer of ownership and value. It is both innovative and modular, and we believe it will play an important role in shaping the future of PayTech..
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
@@ -28,12 +28,12 @@ Our goal is to make the transfer of any value carrier as easy as it is for infor
 * Reduce the risk of fraud and increase customer satisfaction
 * Make it easier for customers to make payments quickly and securely
 
-**We are thrilled to assist you in creating a cutting-edge digital payment platform based on blockchain technology. Our platform is designed to give you the confidence and ease to create your own payment system.**
+**We are thrilled to assist you in creating a cutting-edge digital blockchain-based digital payment infrastructure. Our platform is designed to give you the confidence and ease to create your own payment system.**
 
 
 [Introduction to Blockchain](https://julienrwe.github.io/dam-documentation/introduction-blockchain.html)
 
-### **Let's join forces to reinvent digital payments ! Together, we can create a more efficient and secure system for everyone**
+### **An extremely powerful tool for modernizing and expanding your means of exchange**
 
 <img src="https://user-images.githubusercontent.com/126062813/222188047-668e88c9-6024-4fb5-8db5-3ef318e8c77e.png" width="500" height="400">
 
@@ -54,18 +54,19 @@ Our goal is to make the transfer of any value carrier as easy as it is for infor
 
 - **Create new services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Build a new offering with multiple interacting digital assets on an all-in-one platform.
 
+
 ### What does this mean for your business and consumers ? 
-***A new way of creating your own digital payment experience with concrete benefits for all the actors***
+***A new way to enhance your payment experience that will benefit all the involved partie***
 
 <img src="https://user-images.githubusercontent.com/126062813/222200856-50695cfd-24a0-4683-914c-7dc1d0a5af3d.png" width="800" height="346">
 
-### What makes us stand out from the crowd
-***Instead of developing Proof of Concept (PoC) on readily available public blockchains, our private blockchain can provide enhanced data privacy to our clients, under your direct and unique supervision***
+### How does it work in practice ?
 
-Get the most out of your assets to increase their profitability and success. Create as many digital twins or assets as you want and manage them efficiently to customize your own payment ecosystem.
+From your management area, you can create as many assets as you want and deploy them to the beneficiaries you choose. Each issued token is tracked on a private digital database that only you can access, along with the corresponding resulting data. Converting to digital currency, or vice versa, is a simple process that takes just a few click
+
+**Get the most out of your assets to increase their profitability and success** 
 
 ![image](https://user-images.githubusercontent.com/126062813/222203157-b5e6423c-8ddd-45a3-a78e-99ca096afdfb.png)
-
 
 
 ## Unlock the full potential of all features
