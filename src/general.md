@@ -54,6 +54,19 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 
 - **Create new services never possible before** : own your fully digital ecosystem and <u>reinvent how value flows</u>. Build a new offering with multiple interacting digital assets on an all-in-one platform.
 
+## Application Areas
+
+**Tokenization has the potential to make a big impact in several areas, including asset digitization, voucher payments, ecosystem currency, settlements, and CBDC.**
+
+On a blockchain, **asset digitization** can enable fractional ownership, automated compliance, and improved liquidity.
+
+With **voucher payments**, digital tokens are used for payment, making it a safer, more efficient, and cheaper alternative to traditional value transfer methods.
+
+**Ecosystem currency** is a form of digital currency used within a specific platform or environment. This can incentivize users, reward loyalty, and facilitate transactions.
+
+**Settlements** involve the exchange of funds between two parties, and digital currencies can provide a faster and more secure way to conduct these transactions.
+
+**CBDCs** are essentially digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By complementing existing payment methods, **CBDCs** can help improve financial inclusivity and contribute to monetary stability by providing more flexibility.
 
 ### How does it work in practice ?
 
@@ -140,25 +153,4 @@ Our solution uses mobile wallets to make it easier for users to use digital asse
 
 ![image](https://user-images.githubusercontent.com/126062813/224762679-973bbec1-0383-4b57-ac1f-ab5503ba5a5b.png)
 
-
-## Application Areas
-
-**Tokenization has the potential to make a big impact in several areas, including asset digitization, voucher payments, ecosystem currency, settlements, and CBDC.**
-
-On the blockchain, **asset digitization** can enable fractional ownership, automated compliance, and improved liquidity.
-
-With **voucher payments**, digital tokens are used for payment, making it a safer, more efficient, and cheaper alternative to traditional value transfer methods.
-
-**Ecosystem currency** is a form of digital currency used within a specific platform or environment. This can incentivize users, reward loyalty, and facilitate transactions.
-
-**Settlements** involve the exchange of funds between two parties, and digital currencies can provide a faster and more secure way to conduct these transactions.
-
-**CBDCs** are essentially digital versions of fiat currencies, allowing central banks to issue digital money that can be used for payments and other financial services. By complementing existing payment methods, **CBDCs** can help improve financial inclusivity and contribute to monetary stability by providing more flexibility.
-
-
-**Let's explore how Worldline Digital Currency can be utilized with theses examples**
-
-<img src="https://user-images.githubusercontent.com/126062813/223319433-f62a3c13-ab3e-43d8-9ea2-4c5e932f0f70.png" width="800" height="400">
-
-<img src="https://user-images.githubusercontent.com/126062813/223319506-cfba0c71-ba87-497e-9701-4726f652f97a.png" width="800" height="400">
 
