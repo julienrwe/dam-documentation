@@ -11,7 +11,7 @@ In recent years, the payments system has undergone significant changes. For exam
 
 Thanks to the disruptive impact of blockchain technology, innovation hasn’t slowed down. New payment apps are already being developed using this decentralized ledger, which has a number of advantages like improved security and increased transparency.
 
-In a world where digitization is on the rise, **blockchain enables the representation of value online and allows for easy digitization of real-world assets**. It can help businesses **streamline their processes by incorporating their own business rules into a shared ecosystem**. All information stored on the database is unalterable and immutable, and can be verified at any time.
+In a world where digitization is on the rise, **blockchain enables the representation of value online and allows for easy digitization of real-world assets**. It can help businesses **streamline their processes by incorporating their own business rules into a shared ecosystem** as well. All information stored on the database is unalterable and immutable, and can be verified at any time.
 
 This transparency provides distributors and merchants with a more efficient value chain, resulting in reduced operating costs and a top-notch customer experience. **This is the essence of what the World Digital Currency solution has to offer.**
 
