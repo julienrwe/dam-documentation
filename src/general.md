@@ -23,7 +23,7 @@ Our goal is to make value transfer as easy as sharing knowledge. To achieve this
 
 <img src="https://user-images.githubusercontent.com/126062813/222182113-9409f0ae-8bca-44b7-a3e7-f5d6de54cf7c.png" width="120" height="300"> <img src="https://user-images.githubusercontent.com/126062813/222182189-3d2d6c52-20e9-4e0c-9d94-2d8f0767c0bc.png" width="120" height="300">
 
-**Go digital with payment solutions that are fast, secure and cost-free**. 
+**Go digital with payment solutions that are fast, secure and cost-effective**. 
 
 * Streamline the process of sending and receiving payments, while ensuring secure transactions
 * Reduce the risk of fraud and increase customer satisfaction
