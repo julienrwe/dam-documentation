@@ -126,9 +126,11 @@ Nevertheless, if tokens represent unique assets, they cannot be exchanged for ea
 
 Our product is designed to provide lots of helpful business rules that can help streamline your operations, giving you more time and money-saving opportunities! Plus, it can ensure efficient and effective processes. It can integrate rules over transactions, whitelist and blacklist merchants, and even automate loyalty schemes and cashback systems - making it an incredibly versatile tool that can provide more than just payment and power services for any ecosystem.
 
+For instance, imagine creating a token called "WL coin". You can establish a rule to reward loyalty tokens when a transaction hits a specific threshold, such as 50 euros. Each 50 euro transaction will earn the consumer a certain number of loyalty tokens, to be determined by the issuer. The entire process is automated. Additionally, the use of these tokens can be limited to specific parameters in the rule settings. The goal is to establish a framework for optimizing and increasing the value of your assets.
+
 **Shape the plateform for your business** 
 
-Worldline is integrated with many other native products, and can also be connected to external providers for KYC, payment gateway, and additional services. This allows you to link your daily processes to the private blockchain platform.
+Worldline Digital Currency is integrated with many other native products, and can also be connected to external providers for KYC, payment gateway, and additional services. This allows you to link your daily processes to the private blockchain platform.
 
 **Simple tools for reporting and monitoring**
 
